@@ -2,4 +2,6 @@ pytorch-lightning
 torchmetrics
 torch
 torchvision
+segmentation-models-pytorch
 kaggle
+wandb
